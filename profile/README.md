@@ -1,46 +1,57 @@
 # ifLabX Community 🚀
 
-[中文版](./README.zh.md) | 🏠 [ifLabX Official Website](https://www.iflabx.com)
+[中文版](./README.zh.md) | 🏠 [ifLabX Community Official Website](https://iflabx.com)
 
 ---
 
 ## 🌱 Organization & Activities
 
-ifLabX is dedicated to building a technical community centered on “open collaboration, fast growth, and continuous innovation.” We advocate open source, love AI, and encourage learning and improvement through real-world projects and online sharing.
+The ifLabX Community is committed to building a pioneering, creative, and collaborative modern tech community. We actively embrace artificial intelligence and are always exploring and applying the latest AI tools and advancements.
 
 ### 🧩 Organization
 
 - **Self-governed Groups, Interest Driven**  
-  The community is organized into various interest groups (e.g., 🤖 AI, 🌐 Frontend, 🛠️ Hardware). Each group is guided by a coordinator. Members can freely join or start new groups for self-driven growth and knowledge sharing.
-  
+  The community is organized into multiple tech groups (e.g., 🤖 AI, 🌐 Frontend, 🛠️ Hardware), each guided by a coordinator. Members are free to join or form new groups, enabling self-driven growth and efficient knowledge sharing.
+
 - **Project-centric, Contribution First**  
-  Practice is at the core. We encourage team product development, tool building, and all forms of contribution—code, docs, design, or ideas. All contributions are valued; real influence comes from actual output.
+  We put real-world project practice at our core, encouraging teams to develop AI products, tools, and solutions. Every contribution—including code, documentation, design, and ideas—is equally valued, and real influence is earned through actual impact.
 
-- **Documentation Driven, Knowledge Sharing**  
-  Important discussions, progress, and decisions are documented and archived in the community knowledge base, allowing newcomers to quickly learn about the culture and project history.
+- **Documentation Driven, Knowledge Accumulation**  
+  All key discussions, project progress, and decisions are documented and accumulated as long-term technical assets. New members can quickly understand community culture and project history by reading docs.
 
-- **Mentor & Shadowing**  
-  Experienced members volunteer as mentors, guiding newcomers through a “shadow” model: observing, suggesting, fixing docs, and gradually contributing code—helping new members integrate smoothly.
+- **Mentor System & Shadowing**  
+  Experienced members volunteer as mentors, guiding newcomers through a progressive "shadowing" approach—observe, collaborate, contribute, and grow—helping everyone integrate and advance quickly.
+
+### 🤖 Embracing AI & Modern Development
+
+- **Proactive Adoption of Cutting-edge AI Tools**  
+  Members are enthusiastic about exploring and applying the latest in AI, such as LLMs, AI-assisted programming, and automation tools—always staying ahead of the curve.
+
+- **Encouraging Vibe Coding & Enhanced Dev Experience**  
+  We foster a relaxed and efficient atmosphere for collaboration, supporting spontaneous, inspiration-driven “vibe coding,” and leveraging AI to empower high-efficiency innovation.
+
+- **Practical, Value-oriented AI Learning**  
+  Our community promotes project- and product-based AI learning—not just theory and models, but a focus on practical application and real-world value creation.
 
 ### 🎯 Activities
 
-- **🚀 Project Sprints**  
-  Regular online sprints (e.g., quarterly Build Sprint): teams develop from idea to demo rapidly. Results are showcased online; outstanding projects earn community badges.
+- **🚀 Project Incubation Sprints**  
+  Regular online sprints (Build Sprints), where teams go from idea to demo rapidly—encouraging AI innovation and practical landing.
 
 - **🎤 Topic Talks & Online Sharing**  
-  Members regularly initiate online sharing sessions on open source practice, AI technology, tool skills, etc. Videos and docs are archived for all.
+  Frequent online talks and sharing on AI frontiers, open source best practices, and tool skills, with all materials archived as open resources.
 
 - **🤝 Product Co-creation & Open Collaboration**  
-  Everyone is welcome to collaborate via issues, PRs, and discussions—from planning to development to release. “Learn by building, collaborate by learning.”
+  Everyone can participate via issues, PRs, and discussions, collaborating across the full cycle from planning to launch.
 
 - **📌 Public Roadmap & Growth OKRs**  
-  A quarterly public roadmap details project goals and community events. Members are encouraged to set personal growth OKRs for ongoing progress.
+  A quarterly public roadmap is published, and members are encouraged to set personal learning and growth OKRs for continuous self and team development.
 
-- **🏅 Recognition & Community Honors**  
-  Active contributors, outstanding project leads, and top content creators earn badges and public recognition, fostering a positive and inclusive culture.
+- **🏅 Recognition & Diverse Honors**  
+  Active contributors, outstanding project drivers, and top content creators are recognized with badges and public acknowledgment, fostering a modern, inclusive, and positive community culture.
 
 ---
 
-We welcome all tech lovers and sharers to join ifLabX. Let’s learn, build, and grow together in the open source world!
+We welcome all technology and AI enthusiasts to join ifLabX Community and learn, build, and collaborate together in the world of open source and innovation!
 
 [中文版](./README.zh.md)
