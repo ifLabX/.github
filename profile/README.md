@@ -1,4 +1,4 @@
-# ifLabX Open Source Community 🚀
+# ifLabX Community 🚀
 
 [中文版](./README.zh.md) | 🏠 [ifLabX Official Website](https://www.iflabx.com)
 
