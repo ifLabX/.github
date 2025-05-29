@@ -6,6 +6,8 @@
 
 ## 📑 English
 
+[Switch to Chinese / 切换到简体中文](#-简体中文)
+
 ### 🌱 Organization & Activities
 
 The ifLabX Community is committed to building a pioneering, creative, and collaborative modern tech community. We actively embrace artificial intelligence and are always exploring and applying the latest AI tools and advancements.
@@ -62,6 +64,8 @@ We welcome all technology and AI enthusiasts to join the ifLabX Community. Let�
 
 ## 📑 简体中文
 
+[切换到 English / Switch to English](#-english)
+
 ### 🌱 组织方法与活动方式
 
 ifLabX 社区致力于构建一个技术先锋、充满创造力和协作精神的现代技术社区。我们积极拥抱人工智能，始终关注并应用最新的 AI 工具与技术进展。
@@ -83,4 +87,33 @@ ifLabX 社区致力于构建一个技术先锋、充满创造力和协作精神�
 #### 🤖 拥抱 AI 与现代开发
 
 - **积极应用前沿 AI 工具**  
-  社区成员热衷于探索与实践如 LLM、AI 辅助编程、自
+  社区成员热衷于探索与实践如 LLM、AI 辅助编程、自动化工具等最新人工智能技术，紧跟业界趋势。
+
+- **鼓励 vibe coding，提升开发体验**  
+  我们倡导轻松高效的协作氛围，支持即兴、灵感驱动的“vibe coding”，用 AI 赋能团队高效创新。
+
+- **提倡面向实际价值的 AI 学习**  
+  社区强调以项目和产品为载体的 AI 学习路径——不仅关注理论和模型，更注重实际落地和社会价值的创造。
+
+#### 🎯 活动方式
+
+- **🚀 项目孵化营**  
+  定期举办线上项目冲刺（Build Sprint），小组/兴趣队伍从 idea 到 demo 快速开发，鼓励 AI 创新与落地。
+
+- **🎤 主题讲座与线上分享**  
+  定期发起 AI 前沿、开源实战、工具技巧等主题讲座与线上分享，资料视频归档为社区开放知识库。
+
+- **🤝 产品共创与开放协作**  
+  所有成员可通过 issue、PR、讨论区等参与协作，倡导从策划到开发到发布的全流程协同。
+
+- **📌 公开路线图与成长目标**  
+  每季度制定并公开社区发展路线图，鼓励成员自定学习与成长 OKR，推动自我与团队持续进步。
+
+- **🏅 荣誉激励与多元认可**  
+  授予活跃贡献者、优秀项目推动者及优质内容创造者徽章与公开表彰，营造现代、包容、正向的社区文化。
+
+---
+
+欢迎所有热爱技术与 AI 的朋友加入 ifLabX 社区，在开源与创新的世界里一起学习、创造、协作！
+
+[切换到 English / Switch to English](#-english)
