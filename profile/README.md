@@ -1,6 +1,6 @@
 # ifLabX Community / ifLabX 社区 🚀
 
-[English](#-english) | [简体中文](#-简体中文) | 🏠 [ifLabX Community Official Website / 社区官网](https://iflabx.com)
+[English](#-english) | [简体中文](#-简体中文) | 🏠 [ifLabX Community Official Website / 社区官网](https://www.iflabx.com)
 
 ---
 
